@@ -26,3 +26,9 @@ wikiからの引用
 
 ## 参考資料
 wikipedia かなり有効説：https://ja.m.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%AC%E3%83%BC%E7%97%87%E5%80%99%E7%BE%A4
+
+# English
+# MyASDProfile
+In my ASD, feature and can't thing and doing thing.
+
+## feature
